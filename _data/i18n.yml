@@ -25,7 +25,7 @@ en: &en
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'
-  theme_info: '<p><small>Theme <a href="https://github.com/yizeng/jekyll-theme-simple-texture" target="_blank">Simple Texture</a> developed by <a href="http://yizeng.me" target="_blank">Yi Zeng</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</small></p>'
+  theme_info: '<p><small>  <a href="https://github.com/Taitanguo/" target="_blank">Siyuan Guo Github</a> <a href="https://www.linkedin.com/in/siyuan-guo-333387b7/" target="_blank">Siyuan Guo Linkedin</a>, looking for more information about <a href="https://www.linkedin.com/in/siyuan-guo-333387b7/" target="_blank">Siyuan</a>.</small></p>'
   view: 'View'
 en-us:
   <<: *en

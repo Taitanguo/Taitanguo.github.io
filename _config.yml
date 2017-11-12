@@ -21,45 +21,31 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
-title: Welcome to Siyuan Guo's tecchnical blog 
-description: "Where tech and life growth"
+title: Welcome to Siyuan Guo's tecchnical blog
+description: Where tech and life growth
 keywords: 'blog, life, tech'
-author:Siyuan Guo
-  name:Siyuan Guo
-  job_title:Software Engineer
-  location:Seattle, USA
-  email:uvasiyuan@gmail.co
-  social_links:
-    - name: facebook
-      url:https://www.facebook.com/profile.php?id=100009749160415
-    - name: github
-      url: https://github.com/Taitanguo
-    - name: instagram
-      url:
-    - name: linkedin
-      url:https://www.linkedin.com/in/siyuan-guo-333387b7/
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
-    - name: vk
-      url:
+author: Siyuan Guo
+job_title: Software Engineer
+location: Seattle
+email: uvasiyuan@gmail.com
+
+
+#social media
 home:
   section1: <h1>Where tech growth</h1>
   section2: <h2>Siyuan's tech blog, Java, Interview, Distributed System, and Testing pipeline</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/Taitanguo" title="View on GitHub"></a></div>
-blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+  section3: <div class="social-links"><a class="ico-linkedin btn" href="https://www.linkedin.com/in/siyuan-guo-333387b7/" title="View on linkedin"></a></div> <div class="social-links"><a class="ico-github btn" href="https://github.com/Taitanguo" title="View on github"></a></div>
+
+# blog:
+#   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+#   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License.
+#   footer_content: Just for pure sharing and growth.
 
 disqus:
   shortname: # e.g. yizeng
   public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
 google_analytics: # e.g. 'UA-42456515-5'
-addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
+addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5
 
 paths:
   home: /
